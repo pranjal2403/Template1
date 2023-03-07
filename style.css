@@ -3,11 +3,11 @@ body{
 }
 .footer__contentA{
     float: left;
-    width: 50%;
+    width: 49%;
     text-align: justify;
 }
 .footer__contentB{
     float: right;
-    width: 50%;
+    width: 49%;
     text-align: justify;
 }
