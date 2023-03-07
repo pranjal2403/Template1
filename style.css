@@ -1,0 +1,13 @@
+body{
+    padding: 50px;
+}
+.footer__contentA{
+    float: left;
+    width: 50%;
+    text-align: justify;
+}
+.footer__contentB{
+    float: right;
+    width: 50%;
+    text-align: justify;
+}
