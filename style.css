@@ -11,3 +11,6 @@ body{
     width: 49%;
     text-align: justify;
 }
+ul {
+    padding-left: 15px;
+}
